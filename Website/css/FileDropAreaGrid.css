@@ -1,0 +1,91 @@
+.FileDropAreaList
+{
+  width: 600px;
+/*  border: solid 1px #737373;*/
+  border-collapse:separate;
+}
+
+.FileDropAreaList a
+{
+  color: black;
+  font-family: Verdana;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.FileDropAreaList caption
+{
+  text-align:left;
+  padding: 5px 0 5px 0;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+.FileDropAreaList a:hover
+{
+  cursor:pointer;
+}
+
+.FileDropAreaListEdit
+{
+  border: solid 1px;
+  height: 200px;
+  width: 950px;
+}
+
+.FileDropAreaListRow
+{
+  background-color: #FFFFFF;
+}
+
+.FileDropAreaListAlternativeRow
+{
+  background-color: #F4F4F0;
+}
+
+.FileDropAreaListHeader th.NonSortable
+{
+  background-image : none;
+}
+
+.FileDropAreaListHeader th
+{
+  background-color: #737373;
+  color: #FFFFFF;
+  font-weight: bold;
+  /*background-image: url("/layouts/sortmarker.gif");
+  background-repeat: no-repeat;
+  background-position: 3px;*/
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.FileDropAreaListHeader th a
+{
+  background-color: #737373;
+  color: #FFFFFF;
+}
+
+.FileDropAreaListPager
+{
+  background-color: #737373;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.FileDropAreaListPager a
+{
+  background-color: #737373;
+  color: #FFFFFF;
+}
+
+.footer
+{
+  color: #FFFFFF;
+}

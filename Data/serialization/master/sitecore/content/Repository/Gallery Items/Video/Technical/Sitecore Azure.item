@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {B1DC65E3-D704-446F-96E8-CB1769ED4999}
+database: master
+path: /sitecore/content/Repository/Gallery Items/Video/Technical/Sitecore Azure
+parent: {1843F97C-AC10-457A-B3F8-6E2FD9832A96}
+name: Sitecore Azure
+master: {00000000-0000-0000-0000-000000000000}
+template: {6CE22E7E-FE5E-47E8-8C65-700B92092F3C}
+templatekey: Gallery Video
+
+----version----
+language: en
+version: 1
+revision: 8767bb67-97f7-419a-a6da-598851af283e
+
+----field----
+field: {8409E86E-0720-4AB9-9E09-35446B63200C}
+name: Url
+key: url
+content-length: 36
+
+http://www.youtube.com/v/seqszJ-_Mn0
+----field----
+field: {1C892CFC-5112-4223-878D-95C52BDEE777}
+name: Text
+key: text
+content-length: 38
+
+{3D5C8B2C-EBD4-4F48-8F46-801FE61B598D}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110907T133500
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8767bb67-97f7-419a-a6da-598851af283e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T134329:634510862099506775
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

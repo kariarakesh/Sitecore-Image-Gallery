@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {1D859503-EE10-4F62-8F27-4EF24A1FAEAF}
+database: master
+path: /sitecore/content/Repository/Gallery Items/Video/Marketing/Email Campaign
+parent: {98A9A18A-6DEE-4C29-A180-CB80B2FAA926}
+name: Email Campaign
+master: {00000000-0000-0000-0000-000000000000}
+template: {6CE22E7E-FE5E-47E8-8C65-700B92092F3C}
+templatekey: Gallery Video
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{975CCD8F-76C7-47EB-BB77-31F70740C740}
+----version----
+language: en
+version: 1
+revision: 47f2e0ad-0a38-4b15-8d76-dcc01fd1ca32
+
+----field----
+field: {8409E86E-0720-4AB9-9E09-35446B63200C}
+name: Url
+key: url
+content-length: 36
+
+http://www.youtube.com/v/XeYkrn2eenU
+----field----
+field: {1C892CFC-5112-4223-878D-95C52BDEE777}
+name: Text
+key: text
+content-length: 38
+
+{0B4A248F-6B50-44CB-8EAA-86909B096084}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110908T143200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47f2e0ad-0a38-4b15-8d76-dcc01fd1ca32
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T143348:634510892284403253
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{2BE86D72-E78D-4DC2-9101-DB8A71400EFE}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

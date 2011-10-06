@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {1E3FC6C3-6BDE-4102-A8EE-AD1B9DEFF175}
+database: master
+path: /sitecore/templates/Demo/Gallery/Gallery Social/Gallery Social
+parent: {A483A659-FC3A-4D73-BBCE-D91980F52090}
+name: Gallery Social
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
+----version----
+language: en
+version: 1
+revision: 3c1d5983-6e1c-482b-b493-954f29792bf3
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110909T145145
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3c1d5983-6e1c-482b-b493-954f29792bf3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110909T145145:634511767055832146
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {147A3765-D2F8-49B2-BEC9-D7E77F6A868D}
+database: master
+path: /sitecore/content/Repository/Galleries/Marketing
+parent: {042C19BD-5AE5-4745-8F6A-E8C97EDA836E}
+name: Marketing
+master: {00000000-0000-0000-0000-000000000000}
+template: {EBD89E01-2667-4203-B99E-B4BB577AE77E}
+templatekey: Gallery
+
+----version----
+language: en
+version: 1
+revision: 60f37897-e33a-4555-ad9f-f286d8a9179a
+
+----field----
+field: {C4938859-5264-4F9F-922C-017300C0AA46}
+name: Image List
+key: image list
+content-length: 155
+
+{68E7A166-CFC7-45B3-BB01-2750A470357A}|{91039C7E-7EF6-4DA4-AB7C-39BA06527777}|{AF09D295-A540-4F6D-8853-5FEA2CF93A02}|{2319898B-7E2F-4D93-86B3-57085DCF0225}
+----field----
+field: {FE1E0312-0925-4E38-8187-1A807BC00F1C}
+name: Video List
+key: video list
+content-length: 155
+
+{63E76CCA-D0E5-4E30-9F64-10857514B166}|{1D859503-EE10-4F62-8F27-4EF24A1FAEAF}|{65D03E89-582B-40F0-B185-AD72D9C362A1}|{C56294FB-05C2-462A-B503-BC72AA2D6F50}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110907T132900
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60f37897-e33a-4555-ad9f-f286d8a9179a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T143431:634510892711117659
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

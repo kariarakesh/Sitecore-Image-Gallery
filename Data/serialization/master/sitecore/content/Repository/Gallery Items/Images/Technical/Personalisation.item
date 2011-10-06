@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {2319898B-7E2F-4D93-86B3-57085DCF0225}
+database: master
+path: /sitecore/content/Repository/Gallery Items/Images/Technical/Personalisation
+parent: {AFBF2A0C-F94E-4E96-A697-189B51B5D669}
+name: Personalisation
+master: {00000000-0000-0000-0000-000000000000}
+template: {61B027D7-6FB9-468B-8443-89A99274A077}
+templatekey: Gallery Image
+
+----version----
+language: en
+version: 1
+revision: 67fe9b1d-2bdc-45ee-aceb-073d24aaab5f
+
+----field----
+field: {449FBC1F-E434-46FB-B87A-D26DF0AA896D}
+name: Image
+key: image
+content-length: 198
+
+<image mediaid="{C6E7EF00-AE9C-4740-83EB-2FA18B85AE6F}" mediapath="/Images/Marketing/29421a93-233c-4b8b-919e-2f130266df56" src="~/media/Images/Marketing/29421a93-233c-4b8b-919e-2f130266df56.ashx" />
+----field----
+field: {3D3F515C-BAD2-4B9C-A8BB-6B0CF60AFB91}
+name: Text
+key: text
+content-length: 38
+
+{3D5C8B2C-EBD4-4F48-8F46-801FE61B598D}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110907T133219
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+67fe9b1d-2bdc-45ee-aceb-073d24aaab5f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110907T135749:634510006697078211
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

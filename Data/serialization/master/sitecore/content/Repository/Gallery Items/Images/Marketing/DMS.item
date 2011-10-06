@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {68E7A166-CFC7-45B3-BB01-2750A470357A}
+database: master
+path: /sitecore/content/Repository/Gallery Items/Images/Marketing/DMS
+parent: {B5AAB570-0A0A-446A-A2BC-195EECFFD9AC}
+name: DMS
+master: {00000000-0000-0000-0000-000000000000}
+template: {61B027D7-6FB9-468B-8443-89A99274A077}
+templatekey: Gallery Image
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{975CCD8F-76C7-47EB-BB77-31F70740C740}
+----version----
+language: en
+version: 1
+revision: af2f42a9-407e-49e8-9372-d97e7bc48bca
+
+----field----
+field: {449FBC1F-E434-46FB-B87A-D26DF0AA896D}
+name: Image
+key: image
+content-length: 198
+
+<image mediaid="{43E6DD6B-A73B-4938-8862-9F2090F047F4}" mediapath="/Images/Marketing/1d34a907-0af9-4461-92db-69c294c43915" src="~/media/Images/Marketing/1d34a907-0af9-4461-92db-69c294c43915.ashx" />
+----field----
+field: {3D3F515C-BAD2-4B9C-A8BB-6B0CF60AFB91}
+name: Text
+key: text
+content-length: 38
+
+{0B4A248F-6B50-44CB-8EAA-86909B096084}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110908T141800
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+af2f42a9-407e-49e8-9372-d97e7bc48bca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T142119:634510884790024599
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{2BE86D72-E78D-4DC2-9101-DB8A71400EFE}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

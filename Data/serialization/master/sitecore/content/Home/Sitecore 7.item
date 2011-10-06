@@ -1,0 +1,109 @@
+----item----
+version: 1
+id: {CB98E36F-7642-42DC-8035-D1F01C08624B}
+database: master
+path: /sitecore/content/Home/Sitecore 7
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Sitecore 7
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+700
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1045
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsi="http://www.w3.org/2001/XMLSchema-instance"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B4417BD6-96BC-4FD3-A3A4-9D4E484BF500}" p:before="r[@uid='{F5D13676-8445-4857-9A4F-C1BAD66117F1}']" s:cac="0" s:ds="/sitecore/content/Repository/Galleries/Technical" s:id="{6E767871-7479-485B-A439-59C2BAD9C93E}" s:par="Max Items=5&amp;Slide Delay=6000&amp;Detail Slide Duration=500&amp;Transition Type=swing" s:ph="content" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{F5D13676-8445-4857-9A4F-C1BAD66117F1}" p:before="r[@uid='{1FEA2630-982F-48F7-ADFF-A4445BA3109F}']" s:cac="0" s:ds="/sitecore/content/Repository/Galleries/Technical" s:id="{1DD4D819-CA34-4E79-84EB-1ADA8143D560}" s:par="Max Items=5&amp;Slide Delay=6000&amp;Detail Slide Duration=500&amp;Transition Type=swing" s:ph="content" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{1FEA2630-982F-48F7-ADFF-A4445BA3109F}" s:id="{0C0D59F1-EA8B-4D33-ABE3-F2987DB964CA}" s:ph="content" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: a0e01682-577f-4b26-a547-aff289990272
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 10
+
+Sitecore 7
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 120
+
+<p>&nbsp;- Faster Database Access</p>
+<p>&nbsp;- Multiple Databases for content storage</p>
+<p>&nbsp;- Cache Plugins</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110906T105007
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a0e01682-577f-4b26-a547-aff289990272
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110928T103338:634528028182736992
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

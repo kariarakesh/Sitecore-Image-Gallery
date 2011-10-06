@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {46BAB995-BC26-4DE8-BC0E-2DB887091AC5}
+database: master
+path: /sitecore/templates/Demo/Presentation/Gallery Parameters/__Standard Values
+parent: {76DAF0E5-9FB3-4E8C-B1B9-C885E889307A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {76DAF0E5-9FB3-4E8C-B1B9-C885E889307A}
+templatekey: Gallery Parameters
+
+----field----
+field: {3094D236-5985-4C4F-AE6A-E30740885532}
+name: Caching
+key: caching
+content-length: 13
+
+0|0|0|0|0|0|0
+----version----
+language: en
+version: 1
+revision: 6a3e5eb7-0bbc-4d1d-9674-a4a9b82b7ba6
+
+----field----
+field: {12E676B4-9615-4E5C-8FB7-2B8BAFB7A22E}
+name: Max Items
+key: max items
+content-length: 1
+
+5
+----field----
+field: {1E083536-1743-43E7-B41F-55E3DB5CE5DD}
+name: Slide Delay
+key: slide delay
+content-length: 4
+
+6000
+----field----
+field: {617C03C6-559F-47E1-A70C-834D075A3EB7}
+name: Detail Slide Duration
+key: detail slide duration
+content-length: 3
+
+500
+----field----
+field: {0A4D18A6-875E-400B-8084-655E4E4BA148}
+name: Transition Type
+key: transition type
+content-length: 38
+
+{284EE3E5-2810-4286-920C-7E39260186EF}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110907T170531
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6a3e5eb7-0bbc-4d1d-9674-a4a9b82b7ba6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110907T170554:634510119543952683
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {D9D86166-F125-4BA6-80FF-EA1ED139BBD2}
+database: master
+path: /sitecore/content/Repository/Galleries/Clones/Technical
+parent: {6939E703-0832-4CC8-BB7F-3F858E5422EF}
+name: Technical
+master: {00000000-0000-0000-0000-000000000000}
+template: {EBD89E01-2667-4203-B99E-B4BB577AE77E}
+templatekey: Gallery
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 95bd59d9-4004-4ae7-b6c1-857ef0f6fcbc
+
+----field----
+field: {C4938859-5264-4F9F-922C-017300C0AA46}
+name: Image List
+key: image list
+content-length: 38
+
+{B55F2ABD-6248-433A-94A0-A68F37FA8DA2}
+----field----
+field: {FE1E0312-0925-4E38-8187-1A807BC00F1C}
+name: Video List
+key: video list
+content-length: 38
+
+{45191D87-25D5-4858-9F75-93180F9D5E7B}
+----field----
+field: {1B86697D-60CA-4D80-83FB-7555A2E6CE1C}
+name: __Source
+key: __source
+content-length: 70
+
+sitecore://master/{C16B5178-3AB3-40D4-BD65-D53383694418}?lang=en&ver=1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110908T133100
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+95bd59d9-4004-4ae7-b6c1-857ef0f6fcbc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T154225:634510933455791604
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 0
+
+

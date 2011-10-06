@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {49A73F99-C3B1-4935-91B4-39E63D428FA4}
+database: master
+path: /sitecore/content/Repository/Gallery Items/Video/Business/Competitors
+parent: {B7C4F090-0B49-49A9-943F-991E797D8348}
+name: Competitors
+master: {00000000-0000-0000-0000-000000000000}
+template: {6CE22E7E-FE5E-47E8-8C65-700B92092F3C}
+templatekey: Gallery Video
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{975CCD8F-76C7-47EB-BB77-31F70740C740}
+----version----
+language: en
+version: 1
+revision: 205c6486-566e-4d12-b477-8170e543c1a9
+
+----field----
+field: {8409E86E-0720-4AB9-9E09-35446B63200C}
+name: Url
+key: url
+content-length: 37
+
+http://www.youtube.com/v/=CQotM5d7P3c
+----field----
+field: {1C892CFC-5112-4223-878D-95C52BDEE777}
+name: Text
+key: text
+content-length: 38
+
+{ACEB933A-69C4-4CB9-BD33-9CF6E270A0D8}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110908T142700
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+205c6486-566e-4d12-b477-8170e543c1a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110908T143348:634510892284153238
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{2BE86D72-E78D-4DC2-9101-DB8A71400EFE}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

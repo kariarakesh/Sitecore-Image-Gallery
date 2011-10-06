@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {48229CE1-742A-485E-8769-E427180A3123}
+database: master
+path: /sitecore/content/Repository/Media Upload/GalleryUpload
+parent: {190E5C55-AFDF-4775-A46F-321FB007D8D9}
+name: GalleryUpload
+master: {00000000-0000-0000-0000-000000000000}
+template: {DB7F2BC3-33E4-41E1-88E6-13FFDD73A48F}
+templatekey: FileUpload
+
+----version----
+language: en
+version: 1
+revision: bde86837-793e-4cfe-9bb3-81fb452e6e3d
+
+----field----
+field: {BCF6FCDC-7FD8-47C6-A351-85EE7D7008FB}
+name: File
+key: file
+content-length: 109
+
+<filedroparea mediaid="{B38A7637-ED3F-494F-84A5-A90E8B3A23BB}" uniqueID="7562E0552A9CB6A763137D05084B12A4" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110907T162103
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bde86837-793e-4cfe-9bb3-81fb452e6e3d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110907T162103:634510092638143759
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
